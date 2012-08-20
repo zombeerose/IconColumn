@@ -1,0 +1,6 @@
+/**
+The CSS specific to the IconColumn Grid Plugin.
+*/
+.x-icon-col-cell .x-grid-cell-inner {
+	text-align: center !important;
+}
